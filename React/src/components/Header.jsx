@@ -1,5 +1,5 @@
 import React from "react"
-import doge from "../images/doge.jpeg"
+import doge from "../images/chibi.jpg"
 export default function Header(){
     return(
         <div>

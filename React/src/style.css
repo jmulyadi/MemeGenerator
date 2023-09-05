@@ -20,7 +20,7 @@ main {
 }
 .headerImage{
     height : 4rem;
-    margin-right: 6rem;
+    margin-right: auto;
     max-width: 10rem;
 }
 .title{
